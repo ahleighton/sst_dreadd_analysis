@@ -1,4 +1,4 @@
-%% Master guide SST
+%% SST 
 btm = pwd;
 edges = [20:10:101];
 
